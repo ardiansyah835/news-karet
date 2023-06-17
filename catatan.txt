@@ -1,0 +1,2 @@
+Folder berita tentang adalah untuk pembaca
+Folder kategori adalah untuk admin
